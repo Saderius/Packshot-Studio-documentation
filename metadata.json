@@ -1,0 +1,6 @@
+{
+  "name": "Packshot Studio — Allegro REST API Documentation",
+  "description": "Strona informacyjna aplikacji Packshot Studio korzystającej z Allegro REST API dla Vendi Kwiat Sp. z o.o.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
